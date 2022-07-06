@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=azhe403&style=for-the-badge" alt="viewer" />
 
-<!--
-**aditira/aditira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image](https://raw.githubusercontent.com/aditira/aditira/main/githubprofile-header.jpg)
 
-Here are some ideas to get you started:
+<p>
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Go-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have 5+ years of experience as web developer. Start my career path as web developer since 2017 until present make me know more thing about web development technology.
+
+![Aditira's github stats](https://github-readme-stats.vercel.app/api?username=aditira&count_private=true&show_icons=true&theme=react)
+------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditira)](https://github.com/anuraghazra/github-readme-stats)
+
