@@ -14,7 +14,11 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-Have 5+ years of experience as web developer. Start my career path as web developer since 2017 until present make me know more thing about web development technology.
+Hello everyone, welcome to my github profile.
+
+I Have 5+ years of experience as web developer. Start my career path as web developer since 2017 until present make me know more thing about web development technology.
+
+I am very happy to be able to contribute in every application development in every development project. So, lets code with me.
 
 ![Aditira's github stats](https://github-readme-stats.vercel.app/api?username=aditira&count_private=true&show_icons=true&theme=react)
 ------
