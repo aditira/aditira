@@ -1,4 +1,4 @@
-### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=azhe403&style=for-the-badge" alt="viewer" />
+### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=aditira&style=for-the-badge" alt="viewer" />
 
 ![Header Image](https://raw.githubusercontent.com/aditira/aditira/main/full-stack-development.gif)
 
