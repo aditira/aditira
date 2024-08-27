@@ -24,3 +24,10 @@ I am very happy to be able to contribute in every application development in eve
 ------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditira)](https://github.com/anuraghazra/github-readme-stats)
 
+- Codewars:
+
+  ![Codewars Badge](https://www.codewars.com/users/aditira/badges/large)
+
+- Hackerrank
+
+  [Hackerrank Badge](https://www.hackerrank.com/profile/aditirajamhuri)
